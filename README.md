@@ -1,5 +1,7 @@
 ## BOT SETUP & CONFIGURATION INSTRUCTIONS
 
+### Follow Actions of Best Trader
+
 1) Download & Install Node.js - https://nodejs.org/en/ - 14.16.1 LTS is fine
 
 2) Run the bot
