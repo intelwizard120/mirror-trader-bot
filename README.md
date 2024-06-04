@@ -1,6 +1,6 @@
-### Trading Bot : Automatically Follow Trades of the Best Trader's Wallet
+## Trading Bot : Automatically Follow Trades of the Best Trader's Wallet
 
-## BOT SETUP & CONFIGURATION INSTRUCTIONS
+### BOT SETUP & CONFIGURATION INSTRUCTIONS
 
 1) Download & Install Node.js - https://nodejs.org/en/ - 14.16.1 LTS is fine
 
